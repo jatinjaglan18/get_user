@@ -1,3 +1,0 @@
-usename,usesysid,usecreatedb,passwd,valuntil,useconfig
-postgres,10,True,********,,
-a,10,False,*****,,
